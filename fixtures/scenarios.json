@@ -1,0 +1,57 @@
+[
+  {
+    "actual_rows": 1000,
+    "content_hash": "90f215b151326f26",
+    "data_as_of": "2026-01-15T06:00:00Z",
+    "definition_version": "v2",
+    "expected_rows": 1000,
+    "load_ts": "2026-01-15T11:00:00Z",
+    "metric": "daily_revenue",
+    "partition_id": "rev-2026-01-15",
+    "value": 125000.0
+  },
+  {
+    "actual_rows": 4980,
+    "content_hash": "01661556a502e8a1",
+    "data_as_of": "2026-01-15T08:00:00Z",
+    "definition_version": "v2",
+    "expected_rows": 5000,
+    "load_ts": "2026-01-15T11:30:00Z",
+    "metric": "active_users",
+    "partition_id": "au-2026-01-15",
+    "value": 48210.0
+  },
+  {
+    "actual_rows": 1000,
+    "content_hash": "6291bce5c936b586",
+    "data_as_of": "2026-01-13T00:00:00Z",
+    "definition_version": "v2",
+    "expected_rows": 1000,
+    "load_ts": "2026-01-13T01:00:00Z",
+    "metric": "daily_revenue",
+    "partition_id": "rev-2026-01-12",
+    "value": 118000.0
+  },
+  {
+    "actual_rows": 120,
+    "content_hash": "040a65609ec7d73e",
+    "data_as_of": "2026-01-15T10:00:00Z",
+    "definition_version": "v2",
+    "expected_rows": 1000,
+    "load_ts": "2026-01-15T11:00:00Z",
+    "metric": "daily_revenue",
+    "partition_id": "rev-2026-01-15-partial",
+    "value": 15100.0
+  },
+  {
+    "actual_rows": 1000,
+    "content_hash": "a7aaabc2632b5ec8",
+    "data_as_of": "2026-01-15T06:00:00Z",
+    "definition_version": "v1",
+    "expected_rows": 1000,
+    "load_ts": "2026-01-15T11:00:00Z",
+    "metric": "daily_revenue",
+    "partition_id": "rev-2026-01-15-v1",
+    "value": 124000.0
+  }
+]
